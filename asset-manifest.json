@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/react-deploy/static/css/main.44f8b8b5.css",
-    "main.js": "/react-deploy/static/js/main.d6909b1c.js",
+    "main.js": "/react-deploy/static/js/main.c7feb522.js",
     "static/media/gokuIdle.png": "/react-deploy/static/media/gokuIdle.54155d8c9041ebcf6b11.png",
+    "static/media/vegetaAttack.png": "/react-deploy/static/media/vegetaAttack.08ed66fc9d4ad43d75a9.png",
     "static/media/vegetaIdle.png": "/react-deploy/static/media/vegetaIdle.d56a22904cee5563ecd8.png",
+    "static/media/gokuAttack.png": "/react-deploy/static/media/gokuAttack.0237ce79a7bdd8f8f563.png",
+    "static/media/vesus.png": "/react-deploy/static/media/vesus.c4bd7dc93de9dc78cfc5.png",
     "index.html": "/react-deploy/index.html",
     "main.44f8b8b5.css.map": "/react-deploy/static/css/main.44f8b8b5.css.map",
-    "main.d6909b1c.js.map": "/react-deploy/static/js/main.d6909b1c.js.map"
+    "main.c7feb522.js.map": "/react-deploy/static/js/main.c7feb522.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.d6909b1c.js"
+    "static/js/main.c7feb522.js"
   ]
 }
