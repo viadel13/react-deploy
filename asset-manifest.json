@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.44f8b8b5.css",
+    "main.js": "/react-deploy/static/js/main.1808cb28.js",
+    "static/media/gokuIdle.png": "/react-deploy/static/media/gokuIdle.54155d8c9041ebcf6b11.png",
+    "static/media/vegetaIdle.png": "/react-deploy/static/media/vegetaIdle.d56a22904cee5563ecd8.png",
+    "index.html": "/react-deploy/index.html",
+    "main.44f8b8b5.css.map": "/react-deploy/static/css/main.44f8b8b5.css.map",
+    "main.1808cb28.js.map": "/react-deploy/static/js/main.1808cb28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.1808cb28.js"
+  ]
+}
